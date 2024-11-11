@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ReportsTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-11-05T08:38:30" hostname="PC3" time="0.06">
+  <properties/>
+  <testcase name="testAllBooks()" classname="ReportsTest" time="0.009"/>
+  <testcase name="testNumberOfBookCopiesPerPublisher_WithoutCopies()" classname="ReportsTest" time="0.001"/>
+  <testcase name="testBorrowedCustomer_Case4_UserIdWithMultipleBorrowedBooks()" classname="ReportsTest" time="0.003"/>
+  <testcase name="testBorrowedCustomer_Case2_ValidUserIdWithoutBorrowedBooks()" classname="ReportsTest" time="0.002"/>
+  <testcase name="testAllCustomers()" classname="ReportsTest" time="0.01"/>
+  <testcase name="testNumberOfBookCopiesPerPublisher()" classname="ReportsTest" time="0.012"/>
+  <testcase name="testBorrowedCustomer_Case3_InvalidUserId()" classname="ReportsTest" time="0.007"/>
+  <testcase name="testBorrowedCustomer_Case1_ValidUserIdWithBorrowedBooks()" classname="ReportsTest" time="0.002"/>
+  <testcase name="testAllNonBorrowedCopies()" classname="ReportsTest" time="0.002"/>
+  <testcase name="testAllBorrowedCopies()" classname="ReportsTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

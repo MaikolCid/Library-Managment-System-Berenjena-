@@ -1,0 +1,92 @@
+The CSV file is incorrect.
+
+Customer 1
+---------------
+First Name: Miguel
+Name: Cid
+Mail: miguel.cid@tum.de
+Phone Number: 123-456-7890
+---------------
++All customers were imported successfully!
+
+Customer 1
+---------------
+First Name: Miguel
+Name: Cid
+Mail: miguel.cid@tum.de
+Phone Number: 123-456-7890
+---------------
+,Customer with same mail is already created.
+
++All customers were imported successfully!
+
+Book Copy 1
+---------------
+ISBN: 978-0201485677
+Shelf Location: A2
+Publisher: LibrosPeter
+---------------
+-All book copies were imported successfully!
+
+Book 1
+---------------
+Title: Effective Java
+Author: Joshua Bloch
+ISBN: 978-0134685991
+Year: 1987
+---------------
+'All books were imported successfully!
+The CSV file is incorrect.
+	&The customer was added successfully!
+	
+&The customer was added successfully!
+	
+&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	&The customer was added successfully!
+	 &The customer was added successfully!
+	 &The customer was added successfully!
+	!&The customer was added successfully!
+	!&The customer was added successfully!
+	"&The customer was added successfully!
+	"&The customer was added successfully!

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ManagerTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2024-11-05T08:38:30" hostname="PC3" time="0.153">
+  <properties/>
+  <testcase name="deleteNotFoundBookCopyTest()" classname="ManagerTest" time="0.003"/>
+  <testcase name="searchByNonExistentISBNTest()" classname="ManagerTest" time="0.003"/>
+  <testcase name="returnNonExistingBookCopyTest()" classname="ManagerTest" time="0.011"/>
+  <testcase name="borrowBookCopyByNonExistentUserTest()" classname="ManagerTest" time="0.005"/>
+  <testcase name="deleteBorrowedBookCopyTest()" classname="ManagerTest" time="0.003"/>
+  <testcase name="searchByNonExistentAuthorTest()" classname="ManagerTest" time="0.002"/>
+  <testcase name="searchByTitleTest()" classname="ManagerTest" time="0.016"/>
+  <testcase name="DeleteBookSuccessfullyTest()" classname="ManagerTest" time="0.004"/>
+  <testcase name="deletingCustomerWithBorrowedBooksTest()" classname="ManagerTest" time="0.002"/>
+  <testcase name="returnBookCopyNotBorrowedByCustomerTest()" classname="ManagerTest" time="0.006"/>
+  <testcase name="deletingNonExistingCustomerTest()" classname="ManagerTest" time="0.002"/>
+  <testcase name="borrowNonExistentBookCopyTest()" classname="ManagerTest" time="0.005"/>
+  <testcase name="returnBookCopyExceedingBorrowingTime_CaseUnpaid_Test()" classname="ManagerTest" time="0.008"/>
+  <testcase name="returnBookCopySuccessfullyTest()" classname="ManagerTest" time="0.003"/>
+  <testcase name="borrowBookCopyExceedingLimitTest()" classname="ManagerTest" time="0.004"/>
+  <testcase name="returnBookCopyWithNonExistingCustomerTest()" classname="ManagerTest" time="0.004"/>
+  <testcase name="searchByAuthorTest()" classname="ManagerTest" time="0.003"/>
+  <testcase name="searchByISBNTest()" classname="ManagerTest" time="0.003"/>
+  <testcase name="searchByNonExistentTitleTest()" classname="ManagerTest" time="0.003"/>
+  <testcase name="borrowValidBookCopySuccessfullyTest()" classname="ManagerTest" time="0.005"/>
+  <testcase name="returnBookCopyExceedingBorrowingTime_CasePaying_Test()" classname="ManagerTest" time="0.004"/>
+  <testcase name="DeleteNotFoundBookTest()" classname="ManagerTest" time="0.003"/>
+  <testcase name="borrowAlreadyBorrowedBookCopyTest()" classname="ManagerTest" time="0.004"/>
+  <testcase name="DeleteBookWithBorrowedBookCopiesTest()" classname="ManagerTest" time="0.002"/>
+  <testcase name="deletingCustomerWithNoBorrowedBooksTest()" classname="ManagerTest" time="0.002"/>
+  <testcase name="deleteBookCopySuccessfullyTest()" classname="ManagerTest" time="0.002"/>
+  <system-out><![CDATA[The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+The customer was added successfully!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
